@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1> Hi👋, I'm LuceroMiguel!.</h1>
+  <img src="https://giphy.com/gifs/JIX9t2j0ZTN9S">
 ---
 <!--
 **LuceroMiguel/LuceroMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
