@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <h1> Hi👋, I'm LuceroMiguel!.</h1>
+  <h1> Hola👋, Soy Miguel Lucero.</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgyMGFkMzFkNzhkYzE4MDFmY2M5NjdkMDQ1YjFhOGM3ODRmOGJmMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HBDT4QSTpveU/giphy.gif">
+  <h3> Sobrevivo reparando equipos informáticos 👨‍🔧 💻 y ademas llevo 2 años en el mundo del desarrollo web 💘</h3>
 ---
 <!--
 **LuceroMiguel/LuceroMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
