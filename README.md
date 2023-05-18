@@ -4,27 +4,17 @@
   <h3>A passionate frontend web developer 💘</h3>
   </div>
 ---
-<div id="About" background="black">
+<div id="About">
   <h3> About me:</h3>
-  <p>🔭 I’m currently work repairing informatic equipment.</p>
-  <p>🌱 I’m currently learning javaScript and React.</p>
-  
-  <h3> Languajes and Tools </h3>
-    </div>
-  
-  
-  
-<!--
-**LuceroMiguel/LuceroMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <label>🔭 I’m currently work repairing informatic equipment.</label>
+  <label>🌱 I’m currently learning javaScript and React.</label>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently work repairing informatic equipment
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h3>Languajes and tools.</h3>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <h3> Link to my portfolio: "https://luceromiguel.netlify.app/"
