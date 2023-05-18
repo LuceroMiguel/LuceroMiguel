@@ -1,4 +1,5 @@
-### Hi👋, I'm LuceroMiguel!.
+<div id="header" align="center">
+  <h1> Hi👋, I'm LuceroMiguel!.</h1>
 ---
 <!--
 **LuceroMiguel/LuceroMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
