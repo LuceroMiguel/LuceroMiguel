@@ -6,7 +6,7 @@
 ---
 <div id="about">
   <h2> About me:</h2>
-  <label>🔭 I’m currently work repairing informatic equipment.</label>
+  <label>🔭 I’m currently work repairing informatic equipment.</label><br>
   <label>🌱 I’m currently learning javaScript and React.</label>
 </div>
 <div id="tools">
