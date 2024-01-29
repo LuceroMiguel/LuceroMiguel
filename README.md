@@ -17,5 +17,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass-logo" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git-logo" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-logo" width="40" height="40">
+  
  <h4>Website:"https://luceromiguel.netlify.app/"</h4>
   <div>
